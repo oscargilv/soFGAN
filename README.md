@@ -1,2 +1,2 @@
-# soFGAN
+# SoFGAN
 SoFGAN model repository
